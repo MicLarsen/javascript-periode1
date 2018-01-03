@@ -1,0 +1,6 @@
+# Build and Release folders
+bin-debug/
+bin-release/
+
+# Other files 
+node_modules/
