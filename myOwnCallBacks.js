@@ -100,7 +100,7 @@ let listedMap = ((arr, callback) => {
     return temp;
 })
 
-let myMap = ((arr, callback) => {
+let myMap1 = ((arr, callback) => {
 
     let temp = [];
     temp.push("<ul>");
@@ -117,4 +117,4 @@ let listing = (arr) => {
     return "<li>" + arr + "</li>";
 }
 
-console.log(names.myMap(listing));
+//console.log(names.myMap1(listing));
